@@ -13,3 +13,6 @@ https://feeds.simplecast.com/AeLYwXNc
 https://wordpress.org/news/feed/podcast
 https://codegolf.stackexchange.com/feeds
 https://feeds.macrumors.com/MacRumors-All
+https://www.lemonde.fr/rss/une.xml
+https://www.lefigaro.fr/rss/figaro_actualites.xml
+https://www.youtube.com/feeds/videos.xml?channel_id=UCsLoB3QKenFaDwpSeun7sgA
