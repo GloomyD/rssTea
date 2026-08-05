@@ -38,3 +38,6 @@ https://github.com/j0k3r/f43.me/commits.atom
 https://feeds.simplecast.com/54nAGcIl
 https://feeds.simplecast.com/AeLYwXNc
 https://podcasts.lemonde.fr/lheure-du-monde/feed/rss/website.xml
+https://podcasts.lemonde.fr/le-gout-de-m/feed/rss/website.xml
+https://podcasts.lemonde.fr/le-monde-mot-pour-mots/feed/rss/website.xml
+https://podcasts.lemonde.fr/chaleur-humaine/feed/rss/website.xml
